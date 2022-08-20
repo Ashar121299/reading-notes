@@ -1,6 +1,6 @@
 ## reading-notes 
 
--*this is repo for keep track of my observation and question from the reading assignment throughout my course*-
+_*this is repo for keep track of my observation and question from the reading assignment throughout my course*_
 
 >This repo for me
 
