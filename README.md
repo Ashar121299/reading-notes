@@ -11,3 +11,10 @@ _*this is repo for keep track of my observation and question from the reading as
 
 
 ## Code 102 Reading Notes
+
+
+
+
+
+## [link!](/Readme.md)
+
