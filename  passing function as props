@@ -1,0 +1,52 @@
+# Passing function as Props 
+
+## What does .map() return?
+return an array
+## If I want to loop through an array and display each value in JSX, how do I do that in React?
+using  .map() 
+## Each list item needs a unique *Key*__.
+## What is the purpose of a key?
+keys help react to know which item changed or added or removed
+
+## what is the spread operator?
+_*easy and way to combine arrays and objects*_
+
+
+
+## list 4 thing that spread operator can do ?
+1.using math function
+2.copying array.
+3.adding an item to a array .
+4.combining objects and arrays.
+
+## Give an example of using the spread operator to add a new item to an array ?
+input  [7,8,9]
+Add=[5,6,...,input]
+output=[5,6,7,8,9]
+
+## Give an example of using the spread operator to combine two arrays into one?
+input1= [7,8,9]
+input2= [4,5,6]
+newArray=[input2,.....input1]
+output: [4,5,6,7,8,9]
+
+## Give an example of using the spread operator to combine two objects into one ?
+object1={ID:123}
+object2={name:"Ashar"}
+compining={object1,...,object2}
+output={ID:123,name:"Ashar"}
+
+# Passing Functions between components
+
+## In the video, what is the first step that the developer does to pass functions between components?
+Create functions with state
+## In your own words, what does the increment function do?
+increasing the value if the condition wwas true.
+## How can you pass a method from a parent component into a child component?
+ using {this.iten}
+## How does the child component invoke a method that was passed to it from a parent component?
+by calling as a props inside child method 
+
+## Things I want to know more about:
+
+
