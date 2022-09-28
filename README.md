@@ -1,16 +1,17 @@
-## reading-notes 
+## Reading Notes
 
 _*this is repo for keep track of my observation and question from the reading assignment throughout my course*_
 
 >This repo for me
 
 
-## Code 201 Reading Notes
+## Code 301 - Intermediate Software Development
 1.W3shool for learn HTML ,css,js
 2.hakerrank for problem solving
 
 
-## Code 102 Reading Notes
+## Code 401 - Advanced Software Development
+
 
 
 
