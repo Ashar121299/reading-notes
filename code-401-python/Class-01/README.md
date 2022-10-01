@@ -22,8 +22,8 @@ _*we have multiple ways that called data Structures , but it’s the logic that 
 
 ## What about applied Big O to linked List ?!!!
 
-_* we can add elements and remove elements from a linked list,But we don’t need to allocate memory in advance since we won’t “run out of space” the way we might with a pre-allocated array.*_
-_* So, we just need to rearrange our pointers and figure out which pointer needs to point to where.*_ >"thats it"
+_*we can add elements and remove elements from a linked list,But we don’t need to allocate memory in advance since we won’t “run out of space” the way we might with a pre-allocated array.*_
+_*So, we just need to rearrange our pointers and figure out which pointer needs to point to where.*_ >"thats it"
 
 1.if we decide to insert element to the head of linked list it takes the same amount of time, no matter how long our list is, which is to say it has a space time complexity that is constant, or O(1).
 
