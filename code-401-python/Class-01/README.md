@@ -1,7 +1,7 @@
 ## Class01
 _*The main important thing of writing a code is How we can choose way to organize our information?*_ 
 
-_* we have multiple ways that called data Structures , but it’s the logic that goes into deciding when and whether or not to use them that’s hard to wrap our head around, so that ,we’ll break them down and figure out what makes them useful, and when we might want to consider implementing them.*_
+_*we have multiple ways that called data Structures , but it’s the logic that goes into deciding when and whether or not to use them that’s hard to wrap our head around, so that ,we’ll break them down and figure out what makes them useful, and when we might want to consider implementing them.*_
 
 
 ## Big O Notation 
