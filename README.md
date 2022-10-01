@@ -18,5 +18,5 @@ _*this is repo for keep track of my observation and question from the reading as
 
 
 
-## [link!](/Readme.md)
+## [link!](./code-401-python/)
 
