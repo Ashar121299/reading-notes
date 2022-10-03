@@ -55,7 +55,6 @@ Advantages                                    | DisAdvantages
 -------------                                 | -------------
 provides a clean and simple way to write code | has greater space requirements 
 Some problems are inherently recursive        | codes are difficult to understand, hence extra care to be practiced
-                                              | computer may run out of memory if recursive call arent checked
-
+                                              
 
 
