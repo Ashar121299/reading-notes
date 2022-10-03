@@ -12,11 +12,10 @@ _*this is repo for keep track of my observation and question from the reading as
 
 ## Code 401 - Advanced Software Development
 
+## [link!](./code-401-python)
 
-
-
-
-
-
-## [link!](/Readme.md)
+Classes       | links
+------------- | -------------
+class 1       | [link !](./code-401-python/Class-01/README.md)
+class 2       | [link !](./code-401-python/Class-02/README.md)
 
