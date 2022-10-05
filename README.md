@@ -17,5 +17,5 @@ _*this is repo for keep track of my observation and question from the reading as
 Classes       | links
 ------------- | -------------
 class 1       | [Class01 401 !](../code-401-python/Class-01/class1README.md)
-class 2       | [Class02 401 !](../code-401-python/Class-02/)
+class 2       | [Class02 401 !](../code-401-python/Class-02/class2README.md)
 
