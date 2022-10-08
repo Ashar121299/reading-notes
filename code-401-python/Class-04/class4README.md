@@ -25,7 +25,8 @@ _*A File is a contiguous set of bytes used to store data, This data is organized
 
 When we want to work with a file, the first thing to do is to open it. This is done by invoking the open() built-in function. open() has a single required argument that is the path to the file. open() has a single return. 
 
-EX: file = open('dog_breeds.txt')
+#### EX: 
+file = open('dog_breeds.txt')
 
 
 Also we have the second positional argument, mode. This argument is a string that contains multiple characters to represent how you want to open the file. 
@@ -42,7 +43,7 @@ When you’re manipulating a file, there are two ways that we can use to ensure 
 
 #### 1.The first way to close a file is to use the try-finally block:
 
-####EX: 
+#### EX: 
 reader = open('dog_breeds.txt')
 try:
     # Further file processing goes here
@@ -51,7 +52,7 @@ finally:
 
 #### 2.The second way to close a file is to use the with statement:
 
-####EX:
+#### EX:
 with open('dog_breeds.txt') as reader:
     # Further file processing goes here
 
