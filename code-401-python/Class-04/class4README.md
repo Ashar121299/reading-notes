@@ -1,10 +1,10 @@
-## Reading and Writing Files in Python
+# Reading and Writing Files in Python
 
-### what is a file 
+## what is a file 
 
 _*A File is a contiguous set of bytes used to store data, This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable and at the end, these byte files are then translated into binary for easier processing by the computer.*_
 
-#### Files are composed of three main parts:
+### Files are composed of three main parts:
 
 1.Header: metadata about the contents of the file (file name, size, type, and so on).
 
@@ -13,7 +13,7 @@ _*A File is a contiguous set of bytes used to store data, This data is organized
 3.End of file (EOF): special character that indicates the end of the file*_
 
 
-#### _*Data represent depends on the format specification like .txt or .csv file extensions so When we access a file on an operating system, a file path is required ,which is consist from :*_
+### _*Data represent depends on the format specification like .txt or .csv file extensions so When we access a file on an operating system, a file path is required ,which is consist from :*_
 
 1.Folder Path: the file folder location on the file system where subsequent folders are separated by a forward slash / (Unix) or backslash \ (Windows).
 
@@ -21,7 +21,7 @@ _*A File is a contiguous set of bytes used to store data, This data is organized
 
 3.Extension: the end of the file path pre-pended with a period (.) used to indicate the file type. 
 
-### opening and closing file in python
+## opening and closing file in python
 
 When we want to work with a file, the first thing to do is to open it. This is done by invoking the open() built-in function. open() has a single required argument that is the path to the file. open() has a single return. 
 
@@ -41,7 +41,7 @@ Character |	Meaning
 
 When you’re manipulating a file, there are two ways that we can use to ensure that a file is closed properly, even when encountering an error.
 
-#### 1.The first way to close a file is to use the try-finally block:
+### 1.The first way to close a file is to use the try-finally block:
 
 #### EX: 
 reader = open('dog_breeds.txt')
@@ -50,18 +50,18 @@ try:
 finally:
     reader.close()
 
-#### 2.The second way to close a file is to use the with statement:
+### 2.The second way to close a file is to use the with statement:
 
 #### EX:
 with open('dog_breeds.txt') as reader:
     # Further file processing goes here
 
 
-### Reading and writing opened file 
+## Reading and writing opened file 
 
 Once we’ve opened up a file, we’ll want to read or write to the file. 
 
-#### for reading:
+### for reading:
 
 Method	          | What It Does
 ---------         | --------
@@ -81,7 +81,7 @@ with open('dog_breeds.txt', 'r') as reader:
 
 
 
-#### for writing :
+### for writing :
 
 Method	          | What It Does
 ---------         | --------
@@ -101,4 +101,4 @@ Value          |   Interpretation
 0x1A	       |  A DOS style EOF character
 0x0A	       |  A Unix style line ending \n
 
-## Exceptions in Python
+# Exceptions in Python
