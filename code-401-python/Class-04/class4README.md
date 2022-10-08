@@ -4,7 +4,7 @@
 
 _*A File is a contiguous set of bytes used to store data, This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable and at the end, these byte files are then translated into binary for easier processing by the computer.*_
 
-####Files are composed of three main parts:
+#### Files are composed of three main parts:
 
 1.Header: metadata about the contents of the file (file name, size, type, and so on).
 
