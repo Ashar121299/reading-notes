@@ -102,3 +102,25 @@ Value          |   Interpretation
 0x0A	       |  A Unix style line ending \n
 
 # Exceptions in Python
+
+## Exceptions versus Syntax Errors
+_*Syntax errors occur when the parser detects an incorrect statement but exception errorThis type of error occurs whenever syntactically correct Python code results in an error*_
+## Raising an Exception
+_*We can use raise to throw an exception if a condition occurs. The statement can be complemented with a custom exception.*_
+## The AssertionError Exception
+_*Instead of waiting for a program to crash midway, you can also start by making an assertion in Python. We assert that a certain condition is met. If this condition turns out to be True, then that is excellent! The program can continue. If the condition turns out to be False, you can have the program throw an AssertionError exception.*_
+## The try and except Block: Handling Exceptions
+
+_*The try and except block in Python is used to catch and handle exceptions. Python executes code following the try statement as a “normal” part of the program. The code that follows the except statement is the program’s response to any exceptions in the preceding try clause.*_
+
+![image](https://files.realpython.com/media/try_except.c94eabed2c59.png)
+
+## The else Clause
+_*In Python, using the else statement, you can instruct a program to execute a certain block of code only in the absence of exceptions.*_
+
+![image](https://files.realpython.com/media/try_except_else.703aaeeb63d3.png)
+
+## Cleaning Up After Using finally
+_*Imagine that you always had to implement some sort of action to clean up after executing your code. Python enables you to do so using the finally clause.*_
+
+![image]((https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png))
