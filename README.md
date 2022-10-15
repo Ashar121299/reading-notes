@@ -30,5 +30,5 @@ class 6       | [class06 401 !](https://ashar121299.github.io/reading-notes/code
 
 Classes       | links 
 ------------- | ------
-class 7       | [class07 401 !] (https://ashar121299.github.io/reading-notes/code-401-python/Class-07/class7README)
+class 7       | [class07 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-07/class7README)
 
