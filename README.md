@@ -14,6 +14,8 @@ _*this is repo for keep track of my observation and question from the reading as
 
 ## [Python 401 Readings ](./code-401-python)
 
+## Module 1
+
 Classes       | links
 ------------  | -------------
 class 1       | [Class01 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-01/class1README)
@@ -22,4 +24,11 @@ class 3       | [class03 401 !](https://ashar121299.github.io/reading-notes/code
 class 4       | [class04 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-04/class4README)
 class 5       | [class05 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-05/class5README)
 class 6       | [class06 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-06/class6README)
+
+
+## module 2
+
+Classes       | links 
+------------- | ------
+class 7       | [class07 401 !] (https://ashar121299.github.io/reading-notes/code-401-python/Class-07/class7README)
 
