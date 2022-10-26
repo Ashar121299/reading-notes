@@ -35,4 +35,5 @@ class 8       | [class08 401 !](https://ashar121299.github.io/reading-notes/code
 class 9       | [class09 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-09/class9README)
 class 10      | [class10 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-10/class10README)
 Class 11      | [class11 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-11/class11README)
+Class 12      | [class12 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-12/class12README)
 
