@@ -26,7 +26,7 @@ class 5       | [class05 401 !](https://ashar121299.github.io/reading-notes/code
 class 6       | [class06 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-06/class6README)
 
 
-## module 2
+## Module 2
 
 Classes       | links 
 ------------- | ------
