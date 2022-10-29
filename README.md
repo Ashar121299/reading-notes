@@ -37,3 +37,11 @@ class 10      | [class10 401 !](https://ashar121299.github.io/reading-notes/code
 Class 11      | [class11 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-11/class11README)
 Class 12      | [class12 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-12/class12README)
 
+
+## Module 3
+
+Classes       | links 
+------------- | ------
+class 13       | [class13 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-13/class13README)
+
+
