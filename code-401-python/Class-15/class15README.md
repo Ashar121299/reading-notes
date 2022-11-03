@@ -94,7 +94,8 @@ class Node:
 
 The insert method compares the value of the node to the parent node and decides whether to add it as a left node or right node.
 
-def insert(self, data):
+
+    def insert(self, data):
         if self.data:
             if data < self.data:
                 if self.left is None:
@@ -113,7 +114,8 @@ def insert(self, data):
 
 ### searching 
 
-def findval(self, lkpval):
+
+    def findval(self, lkpval):
         if lkpval < self.data:
             if self.left is None:
                 return str(lkpval)+" is not Found"
