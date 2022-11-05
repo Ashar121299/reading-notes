@@ -83,11 +83,13 @@ You can analyze the frequency of characters in the message, determine the most l
 ### Known plaintext
 
 Another term for the original, unencrypted message is plaintext. If the enemy already knows the plaintext, it will be easy for them to decipher the rest of the code.
+For example, messages tend to start with similar beginnings. In WWII, encrypted German messages always started with a weather forecast, which ultimately made them easier for British mathematician Alan Turing to crack.
 
 ### Brute force
 
 In general, there are only 255 possible spells. The enemy may take time to experience a message and find a reasonable one.
 They can try just a word or two.
+Caesar's enemy wouldn't have a computer to help them, but it likely would take them less than an hour if they understood the idea of the Caesar Cipher.
 
 
 #### The distribution of letters in a typical sample of English language text has a distinctive and predictable shape. A Caesar shift "rotates" this distribution, and it is possible to determine the shift by examining the resultant frequency graph.
