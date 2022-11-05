@@ -44,7 +44,8 @@ Classes       | links
 ------------- | ------
 class 13      | [class13 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-13/class13README)
 class 14      | [class14 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-14/class14README)
-class 15      | [class14 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-15/class15README)
+class 15      | [class15 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-15/class15README)
+class 16      | [class16 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-16/class16README)
 
 
 
