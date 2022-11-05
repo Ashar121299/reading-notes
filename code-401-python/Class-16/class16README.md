@@ -33,6 +33,8 @@ X|D
 Y|E
 Z|F
 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/220px-Caesar_cipher_left_shift_of_3.svg.png)
+
 
 ### Decrypting a message
 
@@ -85,20 +87,7 @@ In general, there are only 255 possible spells. The enemy may take time to exper
 They can try just a word or two.
 
 
+#### The distribution of letters in a typical sample of English language text has a distinctive and predictable shape. A Caesar shift "rotates" this distribution, and it is possible to determine the shift by examining the resultant frequency graph.
 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/English_letter_frequency_%28alphabetic%29.svg/220px-English_letter_frequency_%28alphabetic%29.svg.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Caesar cipher
