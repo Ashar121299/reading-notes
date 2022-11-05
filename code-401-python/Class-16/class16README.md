@@ -33,7 +33,7 @@ X|D
 Y|E
 Z|F
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/220px-Caesar_cipher_left_shift_of_3.svg.png)
+
 
 
 ### Decrypting a message
@@ -66,6 +66,9 @@ W|Z
 X|A
 Y|B
 Z|C
+
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/220px-Caesar_cipher_left_shift_of_3.svg.png)
 
 
 ### Cracking the cipher
