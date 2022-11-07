@@ -79,13 +79,6 @@ function all along in this tutorial's examples. The plain match.group() without 
 When a special character matches as much of the search sequence (string) as possible, it is said to be a "Greedy Match". It is the normal behavior of a regular
 expression, but sometimes this behavior is not desired:
 
-pattern = "cookie"
-sequence = "Cake and cookie"
-
-heading  = r'<h1>TITLE</h1>'
-re.match(r'<.*>', heading).group()
-
-/// "<h1>TITLE</h1>"
 
 ### useful functions 
 
