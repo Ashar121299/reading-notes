@@ -58,7 +58,7 @@ print("How many cookies do you want? ", re.search(r'\d+', '100 cookies').group()
 It becomes quite tedious if you are looking to find long patterns in a sequence. Fortunately, the re module handles repetitions using the following special
 characters:
 
-+ - Checks if the preceding character appears one or more times starting from that position.
+Checks if the preceding character appears one or more times starting from that position.
 
 re.search(r'Co+kie', 'Cooookie').group() /// 'Cooookie'
 
