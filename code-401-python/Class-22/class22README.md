@@ -1,4 +1,4 @@
-## Django Tutorial Part 9: Working with forms
+# Django forms
 
 An HTML Form is a group of one or more fields/widgets on a web page, which can be used to collect information from users for submission to a server.
 
