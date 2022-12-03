@@ -55,6 +55,7 @@ Classes       | links
 ------------- | ------
 class 19      | [class19 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-19/class19README)
 class 20      | [class20 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-20/class20README)
+class 22      | [class22 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-22/class22README)
 
 
 
