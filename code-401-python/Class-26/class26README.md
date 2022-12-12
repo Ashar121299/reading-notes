@@ -113,27 +113,27 @@ components.
 The REST Condition package is another extension for building complex permissions in a simple and convenient way. The extension allows you to combine permissions
 with logical operators.
 
--DRY Rest Permissions
+- DRY Rest Permissions
 
 The DRY Rest Permissions package provides the ability to define different permissions for individual default and custom actions. This package is made for apps
 with permissions that are derived from relationships defined in the app's data model. It also supports permission checks being returned to a client app through the
 API's serializer. Additionally it supports adding permissions to the default and custom list actions to restrict the data they retrieve per user.
 
--Django Rest Framework Roles
+- Django Rest Framework Roles
 
 The Django Rest Framework Roles package makes it easier to parameterize your API over multiple types of users.
 
--Django REST Framework API Key
+- Django REST Framework API Key
 
 The Django REST Framework API Key package provides permissions classes, models and helpers to add API key authorization to your API. It can be used to authorize 
 internal or third-party backends and services (i.e. machines) which do not have a user account. API keys are stored securely using Django's password hashing
 infrastructure, and they can be viewed, edited and revoked at anytime in the Django admin.
 
--Django Rest Framework Role Filters
+- Django Rest Framework Role Filters
 
 The Django Rest Framework Role Filters package provides simple filtering over multiple types of roles.
 
--Django Rest Framework PSQ
+- Django Rest Framework PSQ
 
 The Django Rest Framework PSQ package is an extension that gives support for having action-based permission_classes, serializer_class, and queryset dependent on 
 permission-based rules.
