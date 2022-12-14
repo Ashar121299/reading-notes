@@ -119,11 +119,11 @@ Graphs are extremely popular when it comes to it’s uses. Here are just a few e
 
 - Driving Directions
 
--Social Networks
+- Social Networks
 
--Airline Traffic
+- Airline Traffic
 
--Netflix uses graphs for suggestions of products
+- Netflix uses graphs for suggestions of products
 
 
 
