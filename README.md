@@ -63,7 +63,6 @@ Class 23      | [class23 401 !](https://ashar121299.github.io/reading-notes/code
 
 Classes       | links 
 ------------- | ------
-
 Class 25      | [class25 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-25/class25README)
 Class 26      | [class26 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-26/class26README)
 Class 27      | [class27 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-27/class27README)
