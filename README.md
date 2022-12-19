@@ -57,10 +57,19 @@ class 19      | [class19 401 !](https://ashar121299.github.io/reading-notes/code
 class 20      | [class20 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-20/class20README)
 class 22      | [class22 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-22/class22README)
 Class 23      | [class23 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-23/class23README)
+
+
+## Module 6
+
+Classes       | links 
+------------- | ------
+
 Class 25      | [class25 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-25/class25README)
 Class 26      | [class26 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-26/class26README)
 Class 27      | [class27 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-27/class27README)
 Class 28      | [class28 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-28/class28README)
+Class 29      | [class29 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-29/class29README)
+
 
 
 
