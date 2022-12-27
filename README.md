@@ -70,6 +70,13 @@ Class 28      | [class28 401 !](https://ashar121299.github.io/reading-notes/code
 Class 29      | [class29 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-29/class29README)
 
 
+## Module 7
+
+Classes       | links 
+------------- | ------
+Class 31      | [class31 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-31/class31README)
+
+
 
 
 
