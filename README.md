@@ -79,6 +79,7 @@ Class 32      | [class32 401 !](https://ashar121299.github.io/reading-notes/code
 Class 33      | [class33 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-33/class33README)
 Class 34      | [class34 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-34/class34README)
 Class 35      | [class35 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-35/class35README)
+Class 36      | [class36 401 !](https://ashar121299.github.io/reading-notes/code-401-python/Class-36/class36README)
 
 
 
